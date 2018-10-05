@@ -3,7 +3,7 @@
 		<tr>
 			<td>NIM</td>
 			<td>:</td>
-			<td><input type="number" name="nim" length="10"></td>
+			<td><input  name="komentar"><td>
 		</tr>
 
 		
